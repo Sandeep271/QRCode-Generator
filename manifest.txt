@@ -23,4 +23,4 @@ Output:
 - my_qrcode.png
 
 GitHub Repository:
-https://github.com/YOUR_USERNAME/QRCode-Generator
+https://github.com/Sandeep271/QRCode-Generator
